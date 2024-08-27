@@ -1,0 +1,29 @@
+/* Custom CSS styles */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+    background-color: transparent ;
+}
+
+.jumbotron hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.2) ;
+}
+
+.jumbotron p {
+    color: rgba(255, 255, 255, 0.8) ;
+}
+
+.jumbotron a {
+    color: #17a2b8; 
+
+.jumbotron a:hover {
+    color: #0c6b8e; 
+}
+
+.btn-info {
+    color: #ffffff ; 
+}
+}

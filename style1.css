@@ -1,0 +1,25 @@
+/* style.css */
+
+.jumbotron {
+    background-color: transparent !important;
+}
+
+.jumbotron hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.jumbotron p {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.jumbotron a {
+    color: #17a2b8; /* Change the color as needed */
+}
+
+.jumbotron a:hover {
+    color: #0c6b8e; /* Change the color as needed */
+}
+
+.btn-info {
+    color: #ffffff !important; /* Set the button text color */
+}
